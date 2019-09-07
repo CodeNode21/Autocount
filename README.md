@@ -1,2 +1,2 @@
 # Autocount
-Application built to reconcile vendor statements against paid and open payables.
+Application built for easy vendor statement reconciliation against paid and open payables.
