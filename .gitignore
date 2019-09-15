@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# notes
+/notes.txt
+/yarn.lock
+/logo+.png
+/logosAutocount.png
